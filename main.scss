@@ -191,7 +191,7 @@ body{
         transition: opacity 0.5rem ease;
         // width: 90%;
         @include breakpoint(660px){
-            width: max-content;
+            // width: max-content;
         }
 
         .pageInfo{

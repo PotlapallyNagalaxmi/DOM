@@ -171,8 +171,8 @@ body {
 }
 @media screen and (min-width: 660px) {
   .container .welcomePage {
-    width: -moz-max-content;
-    width: max-content;
+    /* width: -moz-max-content;
+    width: max-content; */
   }
 }
 .container .welcomePage .pageInfo {
